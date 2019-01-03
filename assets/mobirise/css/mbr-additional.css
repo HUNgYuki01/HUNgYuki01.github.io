@@ -2456,12 +2456,11 @@ body {
 }
 .cid-re6qBGBvCK {
   background: #149dcc;
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: linear-gradient(0deg, #149dcc, #ffffff);
 }
 .cid-re6qBGBvCK .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-re6qBGBvCK .video-block {
@@ -2504,7 +2503,7 @@ body {
   background: transparent !important;
 }
 .cid-re6qAzYJq2 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.4 !important;
 }
 .cid-re6qAzYJq2 .mbr-gallery-title {
   font-size: .9em;
@@ -2525,7 +2524,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.4;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
